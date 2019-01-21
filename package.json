@@ -1,0 +1,31 @@
+{
+  "name": "maximum-weighted-matching-bipartite",
+  "version": "1.0.0",
+  "description": "Given a weighted bipartite graph with given edge weights solves the maximum weight matching problem for that graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corupta/Maximum-Weighted-Matching-in-Bipartite-Graph-in-NodeJS.git"
+  },
+  "keywords": [
+    "Graph",
+    "maximum",
+    "weighted",
+    "match",
+    "matching",
+    "weight",
+    "bipartite",
+    "edge",
+    "node",
+    "algorithm"
+  ],
+  "author": "corupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corupta/Maximum-Weighted-Matching-in-Bipartite-Graph-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/corupta/Maximum-Weighted-Matching-in-Bipartite-Graph-in-NodeJS#readme"
+}
